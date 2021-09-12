@@ -11,9 +11,8 @@ with a health points bonus to their score.
 ```markdown
 Some of the action: 
 
-# Header 1
-## Header 2
-### Header 3
+![](Images/lvl1.jpeg)
+![](Images/lvl3.jpeg)
 
 - Bulleted
 - List
