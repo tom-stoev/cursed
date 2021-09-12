@@ -1,15 +1,15 @@
-## Welcome to GitHub Pages
+## Revert the Curse!
 
-You can use the [editor on GitHub](https://github.com/tridentget/portfolio/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+While out on an excursion for a few days, a sneaky mage cast a curse transforming you! Now no one will recognize you, and you can't return home. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### About Cursed
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+More levels will be added! 
+The main objective is to undo the curse as quickly as possible. Those who play carefully will get rewarded 
+with a health points bonus to their score. 
 
 ```markdown
-Syntax highlighted code block
+Some of the action: 
 
 # Header 1
 ## Header 2
