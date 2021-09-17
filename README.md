@@ -1,6 +1,6 @@
-## Revert the Curse!
+## Cursed
 
-Oh no! You've awoken with a curse. Quickly, find & defeat the caster!
+Oh no! You've awoken with a curse. Quickly, find & defeat the mage who cast it!
 
 ### About Cursed
 Developed by Tom Stoev. 
