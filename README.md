@@ -2,7 +2,13 @@
 
 Oh no! You've awoken with a curse. Quickly, find & defeat the mage who cast it!
 
-### About Cursed
+### Support/ Contact Info
+curs3dSupp0rt@gmail.com
+
+### Privacy Policy 
+I do not collect or use any personal information. 
+
+### About Cursed 
 Developed by Tom Stoev. 
 
 All credit is given in the 'credits' tab of the main menu. 
@@ -21,5 +27,3 @@ How to improve your score:
    - try to collect extra health potions!
 ```
 
-### Support/ Contact Info
-curs3dSupp0rt@gmail.com
