@@ -20,7 +20,8 @@ a trail of portals through which you can chase him!
 <p float="left">
 <img src="Images/lvl3.jpeg" width="440" height="204" /> <img src="Images/lvl4_1.jpeg" width="440" height="204" />
 </p>
-```markdown
+
+```
 How to improve your score: 
 1. Complete all the levels
 2. Quicker completion is rewarded with more points
