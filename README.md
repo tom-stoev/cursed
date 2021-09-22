@@ -7,6 +7,7 @@ Oh no! You've awoken with a curse. Quickly, find & defeat the mage who cast it!
 * GameKit
 
 Utilizing Swift, a programming language native to IOS 
+* still in development
 
 ### Gameplay
 In this action game you play as a tired hero who dozes off and wakes up cursed. Unfortunately, this curse 
