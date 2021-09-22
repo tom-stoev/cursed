@@ -13,8 +13,8 @@ In this action game you play as a tired hero who dozes off and wakes up cursed. 
 disguises you as someone your loved ones would never recognize. Fortunately, the malicious mage left behind
 a trail of portals through which you can chase him! 
 
-<img src="Images/lvl1.jpeg" width="440" height="204" >
-<img src="Images/lvl3.jpeg" width="440" height="204" >
+<img src="Images/lvl1.jpeg" width="440" height="204" > <img src="Images/lvl2_2.jpeg" width="440" height="204" >
+<img src="Images/lvl3.jpeg" width="440" height="204" > <img src="Images/lvl4_1.jpeg" width="440" height="204" >
 
 ```markdown
 How to improve your score: 
