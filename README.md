@@ -1,20 +1,17 @@
-## Cursed
+## About Cursed
 
 Oh no! You've awoken with a curse. Quickly, find & defeat the mage who cast it!
 
-### Support/ Contact Info
-curs3dSupp0rt@gmail.com
+### Built with 
+* SpriteKit 
+* GameKit
 
-### Privacy Policy 
-I do not collect or use any personal information. 
+Utilizing Swift, a programming language native to IOS 
 
-### About Cursed 
-Developed by Tom Stoev. 
-
-All credit is given in the 'credits' tab of the main menu. 
-
-More levels will be added! 
-
+### Gameplay
+In this action game you play as a tired hero who dozes off and wakes up cursed. Unfortunately, this curse 
+disguises you as someone your loved ones would never recognize. Fortunately, the malicious mage left behind
+a trail of portals through which you can chase him! 
 
 <img src="Images/lvl1.jpeg" width="440" height="204" >
 <img src="Images/lvl3.jpeg" width="440" height="204" >
@@ -26,4 +23,8 @@ How to improve your score:
 3. Ending the game with more HP gives you a nice score boost
    - try to collect extra health potions!
 ```
+### Support/ Contact Info
+curs3dSupp0rt@gmail.com
 
+### Privacy Policy 
+I do not collect or use any personal information. 
