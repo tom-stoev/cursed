@@ -15,10 +15,10 @@ disguises you as someone your loved ones would never recognize. Fortunately, the
 a trail of portals through which you can chase him! 
 
 <p float="left">
-<img src="Images/lvl1.jpeg" width="440" height="204" /> <img src="Images/lvl2_2.jpeg" width="440" height="204" />
+<img src="Images/lvl1.jpeg" width="400" height="185" /> <img src="Images/lvl2_2.jpeg" width="400" height="185" />
 </p>
 <p float="left">
-<img src="Images/lvl3.jpeg" width="440" height="204" /> <img src="Images/lvl4_1.jpeg" width="440" height="204" />
+<img src="Images/lvl3.jpeg" width="400" height="185" /> <img src="Images/lvl4_1.jpeg" width="400" height="185" />
 </p>
 
 ```
